@@ -13,7 +13,4 @@
 - 🏠 GitHub: [abhirajadhikary06](https://github.com/bholanathdey33)  
 - 🔗 LinkedIn: [Your LinkedIn Profile](#)  
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bholanathdey33show_icons=true&theme=radical)
-
 💡 **“Code, Create, Innovate!”**  
