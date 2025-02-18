@@ -9,8 +9,8 @@
 - 📊 Data Structures & Algorithms  
 
 ## 📫 Connect with Me  
-- 📩 Email: [your.email@example.com](mailto:your.email@example.com)  
-- 🏠 GitHub: [abhirajadhikary06](https://github.com/abhirajadhikary06)  
-- 🔗 LinkedIn: [Your LinkedIn Profile](#)  
+- 📩 Email: [bholanathdey33@gmail.com](mailto:bholanathdey33@gmail.com)  
+- 🏠 GitHub: [bholanathdey33](https://github.com/bholanathdey33)  
+- 🔗 LinkedIn: [https://www.linkedin.com/in/bholanath-dey-a56183334/](#)  
 
 💡 **“Code, Create, Innovate!”**  
