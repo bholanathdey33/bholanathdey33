@@ -9,7 +9,7 @@
 - 📊 Data Structures & Algorithms  
 
 ## 📫 Connect with Me  
-- 📩 Email: [bholanathdey33@gmail.com](mailto:bholanathdey33@gmail.com)  
+- 📩 Email: [Bhola's Email](mailto:bholanathdey33@gmail.com)  
 - 🏠 GitHub: [bholanathdey33](https://github.com/bholanathdey33)  
 - 🔗 LinkedIn: [Bholanath Dey](https://www.linkedin.com/in/bholanath-dey-a56183334/) 
 
