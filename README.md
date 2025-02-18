@@ -11,6 +11,6 @@
 ## 📫 Connect with Me  
 - 📩 Email: [bholanathdey33@gmail.com](mailto:bholanathdey33@gmail.com)  
 - 🏠 GitHub: [bholanathdey33](https://github.com/bholanathdey33)  
-- 🔗 LinkedIn: [https://www.linkedin.com/in/bholanath-dey-a56183334/](#)  
+- 🔗 LinkedIn: [[https://www.linkedin.com/in/bholanath-dey-a56183334/](https://www.linkedin.com/in/bholanath-dey-a56183334/)](#)  
 
 💡 **“Code, Create, Innovate!”**  
